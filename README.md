@@ -1,6 +1,7 @@
-ControlFin
+Mais Dinheiro
 ==========
 
-A ideia é criar um app de controle financeiro pessoal, a ideia ainda esta no inicio e nem começou a engatinhar, 
-o repositorio fora criado para testes e treinamento da ferramenta git-hub, será desenvolvido ao longo do tempo
-conforme for me adaptando com a ferramenta.
+Mais Dinheiro é um aplicativo WEB com foco em gestão de finanças pessoais. Com o Mais Dinheiro seu dinheiro está sempre bem controlando, e você sabe quanto e quando pode gastar o seu dinheiro, sempre fazendo ele render mais!
+
+Linhaguens: HTML, CSS, jQuery, PHP, MySql.
+
